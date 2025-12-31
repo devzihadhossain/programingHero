@@ -1,0 +1,11 @@
+there are 2 types of html tag.
+1) ordered list
+2) unordered list
+
+HTML Tags Learned
+
+	<ul></ul>
+	<ol></ol>
+	<div></div>
+	<button></button>
+
