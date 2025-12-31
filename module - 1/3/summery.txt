@@ -1,0 +1,15 @@
+inline element and block element
+
+HTML Tags Learned
+
+	<h1></h1>		[block element]
+	<h2></h2>	[block element]
+	<h3></h3>	[block element]
+	<h4></h4>		[block element]
+	<h5></h5>	[block element]
+	<h6></h6>	[block element]
+
+	<i></i>				[inline element]
+	<em></em>			[inline element]
+	<b></b>				[inline element]
+	<strong></strong>		[inline element]
