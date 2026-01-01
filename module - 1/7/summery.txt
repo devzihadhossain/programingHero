@@ -1,0 +1,10 @@
+1) how to use image in website from other website
+2) how to use image in website from a folder
+
+	if we use image from our project folder its called relative path
+
+HTML Tags Learned
+
+	<img src="">
+
+
