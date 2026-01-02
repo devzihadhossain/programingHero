@@ -1,5 +1,1 @@
-learned proper way to write html structure.
-
-	
-
-
+module 1 basic html practice and 6 basic task completed.
