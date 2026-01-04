@@ -1,0 +1,12 @@
+tags learned
+
+header
+main
+footer
+nav
+ul li a
+article
+figure
+section
+p
+small
