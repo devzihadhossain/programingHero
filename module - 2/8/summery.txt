@@ -1,3 +1,0 @@
-box-shadow: 10px 		10px 		10px 					red;
-			x-axis, 	y-axis, 	how much will expand
-

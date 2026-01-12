@@ -1,8 +1,0 @@
-basic information about css
-
-CSS		->	Cascading Style Sheets
-
-There is 3 ways to add css in a html file
-	1) inline css
-	2) internal css
-	3) external css
