@@ -142,7 +142,31 @@ main{
 
 @media screen and (max-width: 576px){
   .navbar,
-  .nav-links{
+  .nav-links,
+  .teams{
     flex-direction: column;
+  }
+
+  .teams{
+    
+    gap: 20px
+  }
+
+  .teams-img-container{
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .our-features{
+    padding: 0 30px;
+  }
+}
+
+
+@media screen and (min-width: 576px) and (max-width: 992px){
+  .teams{
+    flex-direction: column;
+  }
+  .our-features{
+    margin: 50px auto;
   }
 }
